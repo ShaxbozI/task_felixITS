@@ -2,7 +2,7 @@
 
 Ushbu app orqali ombordagi xomashyolarni nazorat qilish uchun qulay imkoniyatga ega bo'lasiz. 
 
-Ishlash ketma ketligini sanab o'tamiz:                                                                      URLS 
+Ishlash ketma ketligini sanab o'tamiz:                                                                      URLS
 1. Mahsulot qo'shish                                                                                        /product/
 2. Xom-ashyo qo'shish                                                                                       /product/material/
 3. Xomashyoning miqdor birligini qo'shish                                                                   /product/unity/
